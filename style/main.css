@@ -1,0 +1,34 @@
+body {
+font-family: Arial;
+}
+
+ul {
+
+}
+
+ul li {
+	display: inline;
+	float: right;
+	margin: 5px;
+}
+
+.midstuff {
+	margin: 0 auto;
+	text-align: center;
+
+	padding-top: 200px;
+}
+
+.midstuff img {
+		padding-bottom: 30px;
+}
+
+.butang {
+	margin-top: 50px;
+	padding: 7px;
+	margin-left: 20px;
+}
+
+.kotak {
+	padding: 10px 200px;
+}
